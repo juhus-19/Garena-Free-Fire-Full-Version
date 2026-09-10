@@ -258,3 +258,6 @@ This repository serves as the official landing page for Free Fire. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Fire today!**
+
+---
+**Last updated:** 2026-09-10 00:52:27 UTC
